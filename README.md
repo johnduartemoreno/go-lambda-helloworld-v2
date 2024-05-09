@@ -1,9 +1,5 @@
-# Welcome to your CDK TypeScript project
-
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
+# go-lambda-helloworld-v2
+Repository for a Golang Lambda function deployed via CDK, showcasing a simple 'Hello World' example on AWS.
 ## Useful commands
 
 * `npm run build`   compile typescript to js
